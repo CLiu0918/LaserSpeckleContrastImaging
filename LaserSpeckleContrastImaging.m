@@ -1,4 +1,4 @@
-% Author Chang L
+% Author CLiu
 % Date: 01-17-19
 % Purpose: Laser Speckle Data processing pipeline 
 % Data: LSCI measurement of mouse cerebral blood flow during Co2 induced hypercapnia 
